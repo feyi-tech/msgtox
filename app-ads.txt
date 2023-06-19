@@ -1,0 +1,2 @@
+# AdExchange, PublisherId       ,Relationship, Certification Authority(TAG)
+google.com, pub-3929250278962710, DIRECT, f08c47fec0942fa0
